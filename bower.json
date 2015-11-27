@@ -1,0 +1,16 @@
+{
+  "name": "composer-asset-plugin-test",
+  "title": "Composer Asset Plugin Test",
+  "description": "A small test to verify proper installation using the Composer Asset Plugin",
+  "main": [
+    "./dist/ModuleName/ThemeName/stylesheets/main.min.css"
+  ],
+  "ignore": [
+    "*",
+    "**/.*",
+    "!/dist/**",
+    "!/CHANGELOG.*",
+    "!/LICENSE.*",
+    "!/README.*"
+  ]
+}
